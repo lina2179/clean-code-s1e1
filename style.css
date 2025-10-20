@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.concept { text-align: center;
-}
+  .concept {
+    text-align: center;
+  }
 }
 .centered-main-page-element {
   display: block;
